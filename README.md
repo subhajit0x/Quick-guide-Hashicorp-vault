@@ -1,4 +1,4 @@
-# Quick-guide-Hashicorp-vault
+# Quick-guide-Hashicorp-Vault
 # Hashicorp Vault
 
 We will deep dive into the basics of Vault and its different  use cases.
